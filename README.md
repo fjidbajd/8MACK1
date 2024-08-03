@@ -51,7 +51,7 @@
 - Github
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/fjidbajd/8MACK1/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/fjidbajd/fork-macka/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 

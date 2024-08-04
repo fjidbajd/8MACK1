@@ -9452,7 +9452,7 @@ menu() {
     echoContent green "Github：https://github.com/mack-a/v2ray-agent"
     showInstallStatus
     checkWgetShowProgress
-    echoContent red "=============================================================="
+    echoContent red "\n=============================================================="
     if [[ -n "${coreInstallType}" ]]; then
         echoContent yellow "1.重新安装"
     else
